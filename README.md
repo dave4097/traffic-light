@@ -1,4 +1,4 @@
-###Akka Traffic Light System
+## Akka Traffic Light System
 
 A simple example of how to use akka for a traffic light system.
 The traffic lights will change when:
