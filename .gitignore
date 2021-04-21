@@ -1,0 +1,30 @@
+# Package Files #
+*.jar
+
+# Gradle
+.gradle/
+
+# Binaries
+build/
+
+# Ignore Gradle GUI config
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+/infer-out/
+/config.yml
+application-dev.yml
+application-staging.yml
+
+.classpath
+.project
+.settings/
+bin/
+
+application-test.yml
